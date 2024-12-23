@@ -1,0 +1,10 @@
+path: /home/tata/ros2_ws/src/camera_controller/camera_controller/datacontainer
+train: images/train  
+val: images/valid    
+test: images/test    
+
+
+names:
+  0: payload
+
+
