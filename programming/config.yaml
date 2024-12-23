@@ -1,4 +1,4 @@
-path: /home/tata/ros2_ws/src/camera_controller/camera_controller/datacontainer
+path: /home/tata/ros2_ws/src/camera_controller/camera_controller/dataset
 train: images/train  
 val: images/valid    
 test: images/test    
